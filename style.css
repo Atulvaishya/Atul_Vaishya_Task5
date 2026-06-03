@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo{
+    text-align: left;
+    margin-right: 0px;
+}
+
+img{
+    height: 5vw;
+    width: 5vw;
+}
+
+li{
+    text-align: left;
+    margin-left: 40px;
+    margin-right: 10vw;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.user{
+    text-align: right;
+}
+
+button{
+    background-color: #4CAF50;
+}
+
+.menu{
+    background-color: #f7f2f2;
+    
+}
+
+.contant{
+    
+}
+
